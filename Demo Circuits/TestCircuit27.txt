@@ -1,0 +1,6 @@
+4 Qubits 
+
+CX 3 0
+CX 1 0
+H 2
+S 1

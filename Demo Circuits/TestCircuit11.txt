@@ -1,0 +1,43 @@
+10 Qubits 
+
+H 3
+S 9
+H 7
+S 9
+CX 6 2
+S 2
+CX 0 5
+CX 7 4
+H 6
+CX 3 0
+CX 8 2
+H 9
+CX 8 4
+S 8
+CX 6 1
+S 2
+CX 9 8
+S 8
+CX 1 9
+CX 8 0
+S 6
+H 9
+S 9
+S 5
+CX 5 0
+S 4
+CX 1 0
+CX 2 9
+CX 5 7
+S 3
+CX 8 9
+H 8
+CX 1 8
+CX 9 2
+S 2
+H 6
+CX 3 7
+CX 3 8
+CX 9 2
+CX 3 6
+CX 8 5

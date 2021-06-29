@@ -1,0 +1,30 @@
+8 Qubits 
+
+H 1
+CX 5 1
+S 2
+S 1
+S 2
+H 2
+S 5
+CX 4 0
+H 5
+CX 4 2
+CX 7 5
+S 2
+S 3
+S 6
+H 4
+CX 7 5
+CX 5 0
+H 3
+H 3
+S 4
+H 2
+CX 6 1
+CX 1 0
+CX 7 6
+CX 4 6
+H 3
+S 3
+CX 2 3

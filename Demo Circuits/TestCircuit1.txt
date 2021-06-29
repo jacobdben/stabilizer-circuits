@@ -1,0 +1,37 @@
+13 Qubits 
+
+CX 6 1
+CX 0 8
+S 2
+S 3
+S 6
+S 9
+S 4
+S 8
+H 1
+S 2
+S 0
+H 10
+S 1
+S 10
+H 2
+S 11
+CX 8 4
+S 1
+S 3
+CX 10 1
+S 9
+S 3
+S 1
+S 10
+H 6
+CX 7 4
+CX 12 10
+S 10
+H 1
+CX 12 4
+H 11
+CX 10 9
+CX 1 8
+S 3
+H 3

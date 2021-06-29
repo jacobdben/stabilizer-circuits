@@ -1,0 +1,310 @@
+9 Qubits 
+
+H 0
+S 1
+H 2
+H 3
+H 4
+H 5
+S 6
+H 7
+H 8
+CX 1 3
+CX 2 4
+S 0
+H 1
+S 2
+S 3
+S 4
+H 5
+H 6
+H 7
+S 8
+CX 4 6
+CX 5 7
+S 0
+H 1
+S 2
+S 3
+S 4
+H 5
+S 6
+S 7
+H 8
+CX 0 4
+CX 1 5
+S 0
+H 1
+H 2
+S 3
+H 4
+H 5
+H 6
+H 7
+S 8
+CX 3 7
+CX 4 8
+S 0
+S 1
+H 2
+S 3
+S 4
+S 5
+S 6
+S 7
+S 8
+CX 1 3
+CX 2 4
+S 0
+H 1
+S 2
+S 3
+S 4
+H 5
+S 6
+H 7
+S 8
+CX 4 6
+CX 5 7
+H 0
+H 1
+H 2
+H 3
+S 4
+H 5
+H 6
+H 7
+H 8
+CX 0 4
+CX 1 5
+H 0
+H 1
+S 2
+H 3
+S 4
+H 5
+S 6
+H 7
+S 8
+CX 3 7
+CX 4 8
+S 0
+H 1
+H 2
+H 3
+S 4
+S 5
+S 6
+H 7
+H 8
+CX 1 3
+CX 2 4
+H 0
+H 1
+H 2
+H 3
+S 4
+H 5
+H 6
+H 7
+S 8
+CX 4 6
+CX 5 7
+H 0
+S 1
+H 2
+S 3
+H 4
+S 5
+S 6
+H 7
+H 8
+CX 0 4
+CX 1 5
+S 0
+H 1
+S 2
+S 3
+H 4
+H 5
+H 6
+H 7
+H 8
+CX 3 7
+CX 4 8
+H 0
+S 1
+H 2
+S 3
+S 4
+S 5
+S 6
+H 7
+H 8
+CX 1 3
+CX 2 4
+S 0
+H 1
+S 2
+H 3
+S 4
+S 5
+H 6
+H 7
+H 8
+CX 4 6
+CX 5 7
+S 0
+H 1
+S 2
+H 3
+H 4
+S 5
+S 6
+S 7
+S 8
+CX 0 4
+CX 1 5
+H 0
+S 1
+H 2
+H 3
+S 4
+H 5
+S 6
+S 7
+S 8
+CX 3 7
+CX 4 8
+S 0
+H 1
+S 2
+S 3
+H 4
+S 5
+H 6
+H 7
+H 8
+CX 1 3
+CX 2 4
+S 0
+S 1
+H 2
+H 3
+S 4
+H 5
+H 6
+S 7
+S 8
+CX 4 6
+CX 5 7
+H 0
+H 1
+H 2
+H 3
+S 4
+S 5
+S 6
+H 7
+H 8
+CX 0 4
+CX 1 5
+S 0
+H 1
+S 2
+S 3
+H 4
+H 5
+S 6
+S 7
+H 8
+CX 3 7
+CX 4 8
+S 0
+S 1
+H 2
+S 3
+S 4
+S 5
+H 6
+H 7
+S 8
+CX 1 3
+CX 2 4
+H 0
+H 1
+S 2
+S 3
+S 4
+S 5
+S 6
+S 7
+H 8
+CX 4 6
+CX 5 7
+H 0
+S 1
+S 2
+H 3
+H 4
+S 5
+S 6
+S 7
+S 8
+CX 0 4
+CX 1 5
+H 0
+S 1
+S 2
+H 3
+S 4
+H 5
+H 6
+H 7
+S 8
+CX 3 7
+CX 4 8
+H 0
+S 1
+S 2
+S 3
+S 4
+H 5
+S 6
+S 7
+S 8
+CX 1 3
+CX 2 4
+H 0
+H 1
+S 2
+S 3
+S 4
+S 5
+H 6
+H 7
+H 8
+CX 4 6
+CX 5 7
+H 0
+S 1
+H 2
+H 3
+S 4
+H 5
+S 6
+H 7
+S 8
+CX 0 4
+CX 1 5
+S 0
+H 1
+S 2
+H 3
+S 4
+S 5
+S 6
+H 7
+H 8
+CX 3 7
+CX 4 8

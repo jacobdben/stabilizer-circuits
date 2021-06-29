@@ -1,0 +1,128 @@
+4 Qubits 
+
+H 0
+S 1
+H 2
+H 3
+CX 1 2
+H 0
+H 1
+H 2
+S 3
+H 0
+H 1
+H 2
+H 3
+CX 0 3
+S 0
+H 1
+H 2
+H 3
+H 0
+H 1
+S 2
+H 3
+CX 1 2
+H 0
+S 1
+H 2
+S 3
+S 0
+S 1
+S 2
+S 3
+CX 0 3
+S 0
+S 1
+S 2
+S 3
+S 0
+S 1
+H 2
+H 3
+CX 1 2
+S 0
+H 1
+H 2
+H 3
+S 0
+S 1
+H 2
+H 3
+CX 0 3
+S 0
+S 1
+S 2
+H 3
+H 0
+S 1
+H 2
+S 3
+CX 1 2
+H 0
+H 1
+H 2
+S 3
+S 0
+S 1
+H 2
+H 3
+CX 0 3
+H 0
+H 1
+H 2
+S 3
+S 0
+H 1
+H 2
+H 3
+CX 1 2
+S 0
+S 1
+H 2
+S 3
+H 0
+H 1
+H 2
+H 3
+CX 0 3
+H 0
+S 1
+H 2
+S 3
+H 0
+S 1
+H 2
+S 3
+CX 1 2
+H 0
+S 1
+S 2
+H 3
+H 0
+S 1
+S 2
+H 3
+CX 0 3
+S 0
+S 1
+H 2
+S 3
+S 0
+S 1
+H 2
+H 3
+CX 1 2
+S 0
+S 1
+S 2
+H 3
+H 0
+S 1
+H 2
+H 3
+CX 0 3
+H 0
+H 1
+S 2
+S 3
